@@ -6,5 +6,5 @@ A work in progress ....
 
 ## Some early results
 
-(output_image_1)[Output 1]
+![Output 1](output_image_1.png)
 
